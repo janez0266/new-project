@@ -7,4 +7,6 @@ body {
 p {
     background-image: -moz-element();
 }
-color red
+html {
+color: blue;
+}
